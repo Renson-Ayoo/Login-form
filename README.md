@@ -18,8 +18,9 @@ A stylish, modern **Login Form** built using **HTML** and **CSS**, with a glassm
 ---
 
 ## 📁 Project Structure
-
+```
 login-form/
 ├── index.html # Main HTML structure
 ├── style.css # CSS styles (glassmorphism)
 └── img.jpg # Background image
+```
